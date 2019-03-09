@@ -10,12 +10,12 @@ Here I did the following tasks on terminal using command line in my desktop.
 - Open the current folder containing the new HTML file. ----Open .
 
 
-FILMONs-MBP:~ filmon$ cd desktop
-FILMONs-MBP:desktop filmon$ mkdir first_day_stuff
-FILMONs-MBP:desktop filmon$ cd first_day_stuff
-FILMONs-MBP:first_day_stuff filmon$ touch first-day.html
-FILMONs-MBP:first_day_stuff filmon$ open .
-FILMONs-MBP:first_day_stuff filmon$ 
+- FILMONs-MBP:~ filmon$ cd desktop
+- FILMONs-MBP:desktop filmon$ mkdir first_day_stuff
+- FILMONs-MBP:desktop filmon$ cd first_day_stuff
+- FILMONs-MBP:first_day_stuff filmon$ touch first-day.html
+- FILMONs-MBP:first_day_stuff filmon$ open .
+- FILMONs-MBP:first_day_stuff filmon$ 
 
 -Bonus
 Creating multiple files and folders using single command line in my desktop-
